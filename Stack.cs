@@ -11,7 +11,7 @@ namespace StackQueueLinkedList
     {
              public static void Main(string[] args)
             {
-            Stack st = new Stack();
+                Stack st = new Stack();
                 st.Push(70);
                 st.Push(30);
                 st.Push(56);

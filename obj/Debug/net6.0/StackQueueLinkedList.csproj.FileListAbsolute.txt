@@ -1,0 +1,5 @@
+C:\Users\Admin\bridgelab\csharpprograms\StackQueueLinkedList\StackQueueLinkedList\obj\Debug\net6.0\StackQueueLinkedList.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\StackQueueLinkedList\StackQueueLinkedList\obj\Debug\net6.0\StackQueueLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\bridgelab\csharpprograms\StackQueueLinkedList\StackQueueLinkedList\obj\Debug\net6.0\StackQueueLinkedList.AssemblyInfoInputs.cache
+C:\Users\Admin\bridgelab\csharpprograms\StackQueueLinkedList\StackQueueLinkedList\obj\Debug\net6.0\StackQueueLinkedList.AssemblyInfo.cs
+C:\Users\Admin\bridgelab\csharpprograms\StackQueueLinkedList\StackQueueLinkedList\obj\Debug\net6.0\StackQueueLinkedList.csproj.CoreCompileInputs.cache
